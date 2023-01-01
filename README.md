@@ -1,6 +1,7 @@
 <div id="header" align="center"> 
-   <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="380"/> 
+   <img src="header.png"/>
 </div>
+
 <div id="badges" align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white&style=flat" alt="TikTok"/>
