@@ -2,25 +2,6 @@
    <img src="header.png"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white&style=flat" alt="TikTok"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/YouTube-red?logo=YouTube&logoColor=white&style=flat" alt="YouTube"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Twitch-purple?logo=Twitch&logoColor=white&style=flat" alt="Twitch"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/github/watchers/MAGistR-bit/MAGistR-bit?label=Profile%20views&style=social" alt=""/>
-  <h1>
-     Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  </h1>
-</div>  
-
 ### 🚀 About Me:
 I am a **Java Developer** from Russia. <img src="https://media.giphy.com/media/W43Agp2vwvtYUBIDgc/giphy.gif" width="30">
 - 🎓 I have a Bachelor's degree in **Information Systems and Technologies**.
@@ -62,3 +43,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+### Quotes
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
