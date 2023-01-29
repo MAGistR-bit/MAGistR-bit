@@ -9,6 +9,7 @@ I am a **Java Developer** from Russia. <img src="https://media.giphy.com/media/W
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 ---
 ### :hammer_and_wrench: Languages and Tools :
+<br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -22,11 +23,18 @@ I am a **Java Developer** from Russia. <img src="https://media.giphy.com/media/W
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
-### :fire: My GitHub Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MAGistR-bit&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<br>
+<p align="center">
+    <a href="https://github.com/MAGistR-bit/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MAGistR-bit's streak" src="http://github-readme-streak-stats.herokuapp.com?user=MAGistR-bit&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&date_format=M%20j%5B%2C%20Y%5D"/>
+    </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAGistR-bit&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+---
+### :fire: My GitHub Stats 
+![MAGistR-bit GitHub stats](https://github-readme-stats.vercel.app/api?username=MAGistR-bit&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)    
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAGistR-bit&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
     
 <!--
