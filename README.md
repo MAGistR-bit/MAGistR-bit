@@ -46,3 +46,6 @@ Here are some ideas to get you started:
 ---
 ### Quotes
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
+
+### My contribution
+![snake gif](https://github.com/MAGistR-bit/MAGistR-bit/blob/output/github-contribution-grid-snake.gif)
