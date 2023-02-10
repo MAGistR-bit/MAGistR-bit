@@ -3,7 +3,7 @@
 </div>
 
 ### 🚀 About Me:
-I am a **Java Developer** from Russia. <img src="https://media.giphy.com/media/W43Agp2vwvtYUBIDgc/giphy.gif" width="30">
+I am a **Junior Java Developer** from Russia. <img src="https://media.giphy.com/media/W43Agp2vwvtYUBIDgc/giphy.gif" width="30">
 - 🎓 I have a Bachelor's degree in **Information Systems and Technologies**.
 - 🔭 I’m currently learning **Go, Linux, Apache Kafka, Spring Boot**.
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
